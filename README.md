@@ -11,7 +11,7 @@
 
 ▶️ Then run it.
 
-✏️ Modify *Program.cs* to set the WGS84 Latitude and Longitude Input Variables - *lat* and *lng*.
+✏️ Modify *Program.cs* to set the WGS84 Latitude and Longitude input variables - *lat* and *lng*.
 
 ### Files of interest
 
