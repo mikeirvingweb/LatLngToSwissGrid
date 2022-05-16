@@ -13,6 +13,12 @@
 
 ✏️ Modify *Program.cs* to set the WGS84 Latitude and Longitude input variables - *lat* and *lng*.
 
+### Example
+
+`Functions.LLtoSwissGrid(46.963112, 7.464872, out swissEasting, out swissNorthing);`
+
+would return `swissEasting = 601997`, `swissNorthing = 201337`
+
 ### Files of interest
 
 Whilst the entire repository can be compiled and used as a C# / .NET Console App, these are the main files.
