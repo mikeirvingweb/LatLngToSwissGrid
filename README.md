@@ -30,3 +30,7 @@ Whilst the entire repository can be compiled and used as a C# / .NET Console App
 ### Contributions
 
 🍴 Feel free to Fork / Branch / Modify, raise any Pull Requests for changes.
+
+#### Also available
+
+Lat / Lng to: [Gauss–Krüger](https://github.com/mikeirvingweb/LatLngToGaussKruger).
